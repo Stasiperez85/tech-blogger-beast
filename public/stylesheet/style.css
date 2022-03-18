@@ -55,7 +55,7 @@ a {
     color: var(--dark);
   }
   
-  /* .post-list {
+  .post-list {
     margin: 0;
     padding: 0;
   }
@@ -91,7 +91,7 @@ a {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-  } */
+  }
 
  header {
     padding: 3% 4%;
@@ -106,7 +106,7 @@ a {
   line-height: 1.25;
 }
 
-/* main {
+main {
     flex: 1;
     padding: 2% 4%;
   }
@@ -164,8 +164,8 @@ a {
   
   } */
 
-  /* CARDS */
-  
+  /* CARDS
+
 .card {
     margin: 0 0 20px 0;
     border: 3px solid var(--dark);
