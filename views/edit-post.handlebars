@@ -17,7 +17,7 @@
                 <img({{post.image_url}}) />
             </div>
             <div>
-                {{post.vote_count}} {{format_plural "Paw-Point" post.vote_count}} by you on {{format_date
+                {{post.vote_count}} {{format_plural "Point" post.vote_count}} by you on {{format_date
                 post.created_at}}
                 |
                 <a href="/post/{{post.id}}">{{post.comments.length}} {{format_plural "comment"

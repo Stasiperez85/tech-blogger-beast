@@ -10,8 +10,6 @@
             </div>
             <div class="meta">
                 {{vote_count}} {{format_plural "Point" vote_count}} by {{user.username}} on {{format_date created_at}}
-                {{!-- the previous line uses handlebars expressions to show how many paw-points each post has received
-                as well as who created the post and when the it was created--}}
                 |
                 <a href="/post/{{id}}">{{comments.length}} {{format_plural "comment" comments.length}}</a>
                 {{!-- the href attribute in the anchor tag links to the single post page for the post where users can
