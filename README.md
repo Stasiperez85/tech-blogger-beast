@@ -20,7 +20,6 @@ Screen Shots
 
 ![Screen Shot 2022-04-05 at 5 39 55 PM](https://user-images.githubusercontent.com/78401136/161868522-f132c0c6-d62d-4de0-b20b-77b8bfae1dc5.png)
 
- ![Uploading Screen Shot 2022-04-05 at 5.40.26 PM.png…]()
  
 Links!
 Deployed Application: https://mighty-garden-21296.herokuapp.com/
